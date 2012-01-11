@@ -1,0 +1,9 @@
+C:\Users\Jason\Dropbox\Devry\CIS336\SimpleQueryAnalyzer\SimpleQueryAnalyzer\bin\Debug\SimpleQueryAnalyzer.exe
+C:\Users\Jason\Dropbox\Devry\CIS336\SimpleQueryAnalyzer\SimpleQueryAnalyzer\bin\Debug\SimpleQueryAnalyzer.pdb
+C:\Users\Jason\Dropbox\Devry\CIS336\SimpleQueryAnalyzer\SimpleQueryAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\Devry\CIS336\SimpleQueryAnalyzer\SimpleQueryAnalyzer\obj\x86\Debug\SimpleQueryAnalyzer.Form1.resources
+C:\Users\Jason\Dropbox\Devry\CIS336\SimpleQueryAnalyzer\SimpleQueryAnalyzer\obj\x86\Debug\SimpleQueryAnalyzer.Properties.Resources.resources
+C:\Users\Jason\Dropbox\Devry\CIS336\SimpleQueryAnalyzer\SimpleQueryAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jason\Dropbox\Devry\CIS336\SimpleQueryAnalyzer\SimpleQueryAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jason\Dropbox\Devry\CIS336\SimpleQueryAnalyzer\SimpleQueryAnalyzer\obj\x86\Debug\SimpleQueryAnalyzer.exe
+C:\Users\Jason\Dropbox\Devry\CIS336\SimpleQueryAnalyzer\SimpleQueryAnalyzer\obj\x86\Debug\SimpleQueryAnalyzer.pdb
