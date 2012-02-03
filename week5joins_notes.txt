@@ -1,0 +1,51 @@
+select * from customers, billing where customers.customerid = billing.customerid
+
+--this is an implicit inner join.
+--this will exclude all customers that have yet to receive a bill
+
+select * from customers, billing where customers.customerid += billing.customerid
+
+--this is an implicit left outer join
+--this will include all customers AND the bills they might have
+
+select * from customers, billing where customers.customerid += billing.customerid
+and billing.billingid is null;
+
+--this will give you all the customers that have yet to receive a bill, but 
+--not customers that have received a bill
+
+select * from customers inner join billing on customers.customerid = billing.customerid
+
+--this is an ANSI standard inner join.
+--this will exclude all customers that have yet to receive a bill
+
+select * from customers left outer join billing on 
+customers.customerid = billing.customerid
+
+--above this is an ansi standard left outer join
+
+select * from customers left outer join billing on 
+customers.customerid = billing.customerid
+where billing.billingid is null;
+
+
+select * from customers inner join billing on 
+customers.customerid = billing.customerid inner join 
+packages on billing.packageid = packages.packageid
+
+
+--added a table to the select above
+
+select * from customers, billing 
+
+--cartisian product
+
+
+
+
+
+
+
+
+
+
