@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QueryAnalyzer\QueryAnalyzer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QueryAnalyzer\QueryAnalyzer\obj\Debug\QueryAnalyzer.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QueryAnalyzer\QueryAnalyzer\obj\Debug\QueryAnalyzer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QueryAnalyzer\QueryAnalyzer\obj\Debug\QueryAnalyzer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QueryAnalyzer\QueryAnalyzer\bin\Debug\QueryAnalyzer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QueryAnalyzer\QueryAnalyzer\bin\Debug\QueryAnalyzer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QueryAnalyzer\QueryAnalyzer\obj\Debug\QueryAnalyzer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QueryAnalyzer\QueryAnalyzer\obj\Debug\QueryAnalyzer.pdb
